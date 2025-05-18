@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aizaz Ullah</h1>
-<h3 align="center">AI Agent Developer and Workflow Automation Specialist 💻</h3>
+<h3 align="center">AI Agent Developer and Automation Specialist 💻</h3>
 
-- 🔭 My FYP **GLOF**
+- ⭐ I’m currently working on **AI Powered email outreach and workflow automation**
 
-- 💬 Ask me about **Custom AI Agents and Workflow Automations**
+- 👯 I’m looking to collaborate on **Solving manual data entry and reporting headaches**
+
+- 🤝 I’m looking for help with **Integrating custom automations into systems**
+
+- 💬 Ask me about **Eliminating your manual work and pain points with AI Agents**
 
 - 📫 How to reach me **sheikhaizaz17@gmail.com**
 
