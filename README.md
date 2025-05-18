@@ -3,13 +3,11 @@
 
 - ⭐ I’m currently working on **AI Powered email Outreach and Workflow Automation**
 
-- 👯 I’m looking to collaborate on **Integrating Custom Automations into Legacy Systems**
-
 - 💬 Ask me about **Eliminating your Manual Workflow using Specialized AI Agents**
 
 - 📫 How to reach me **sheikhaizaz17@gmail.com**
 
-- ⚡ Fun fact **Every custom automation you build can reclaim hours of manual drudgery each week!**
+- ⚡ Fun fact **every custom automation you build can reclaim hours of manual drudgery each week!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
