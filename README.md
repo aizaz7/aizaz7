@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aizaz Ullah</h1>
 <h3 align="center">AI Agent Developer and Automation Specialist 💻</h3>
 
-- ⭐ I’m currently working on **AI Powered email outreach and workflow automation**
+- ⭐ I’m currently working on **AI Powered email Outreach and Workflow Automation**
 
-- 👯 I’m looking to collaborate on **Solving manual data entry and reporting headaches**
+- 👯 I’m looking to collaborate on **Integrating Custom Automations into Legacy Systems**
 
-- 🤝 I’m looking for help with **Integrating custom automations into systems**
-
-- 💬 Ask me about **Eliminating your manual work and pain points with AI Agents**
+- 💬 Ask me about **Eliminating your Manual Workflow using Specialized AI Agents**
 
 - 📫 How to reach me **sheikhaizaz17@gmail.com**
 
-- ⚡ Fun fact **Digital Dreams Builder**
+- ⚡ Fun fact **Every custom automation you build can reclaim hours of manual drudgery each week!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
